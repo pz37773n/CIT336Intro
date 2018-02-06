@@ -1,0 +1,24 @@
+	  #title1 {
+        font-family: 'Alegreya', serif;
+        font-size: 48px;
+        text-shadow: 4px 4px 4px #aaa;
+        color: White;
+      }
+      
+      #box {
+        width: 70%;
+        margin: auto;
+        padding: 2%;
+        background-color: #F0F8FF;
+        border-radius: 25px;
+        text-align: left;
+        font-family: 'Alegreya';
+        font-size: 25px
+        }
+        
+        #title2 {
+        font-family: 'Alegreya', serif;
+        font-size: 48px;
+        text-shadow: 4px 4px 4px #aaa;
+        }
+
